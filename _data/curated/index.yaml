@@ -211,6 +211,12 @@
   url: http://www.9ine.uk.com/newsblog/gdpr-summary
   domain: www.9ine.uk.com
   image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15eec81efeb:19f5e0:4d363ef0
+  item_date: "2017-10-03 05:11:08"
+  title: 'Information Governance in Japan: Towards a Comparative Paradigm'
+  url: http://thegovlab.org/?p=21593
+  domain: thegovlab.org
+  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15ee6d6f0c0:353aeb:d137ef92
   item_date: "2017-10-04 02:55:00"
   title: EU
@@ -278,6 +284,13 @@
   url: http://www.riskiq.com/?p=12282
   domain: www.riskiq.com
   image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fa219f0aa:f255de:541f3c40
+  item_date: "2017-11-06 03:57:20"
+  title: 'Data Governance Regimes in the Digital Economy: The Example of Connected
+    Cars'
+  url: http://thegovlab.org/?p=21864
+  domain: thegovlab.org
+  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15f9b9ff8aa:3b680c:541f3c40
   item_date: "2017-11-08 04:29:00"
   title: CCTV Users at 'Risk of Breaching GDPR'
@@ -290,16 +303,16 @@
   url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
   domain: duo.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fc26dfff3:15b2a:3c0bb656
@@ -338,6 +351,12 @@
   title: The battle for control of data could be just starting
   url: https://techcrunch.com/2017/11/19/the-battle-for-control-of-data-could-be-just-starting/
   domain: techcrunch.com
+  image: ""
+- curated_id: cokvuWXR6k4zx4cTNPY1nzhlJpqqTmN3HT0ihkkhjoM=_15fdacff9d5:243fa83:541f3c40
+  item_date: "2017-11-19 16:00:00"
+  title: Code Review Guidelines
+  url: https://engineeringblog.yelp.com/2017/11/code-review-guidelines.html
+  domain: engineeringblog.yelp.com
   image: ""
 - curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_15fd8ffe213:203fb86:7157a206
   item_date: "2017-11-20 02:02:00"
