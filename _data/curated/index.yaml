@@ -5,4 +5,42 @@
   url: http://nordicapis.com/?p=6549
   domain: nordicapis.com
   image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15eec81efeb:19f5e0:4d363ef0
+  item_date: "2017-10-03 05:11:08"
+  title: 'Information Governance in Japan: Towards a Comparative Paradigm'
+  url: http://thegovlab.org/?p=21593
+  domain: thegovlab.org
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fa219f0aa:f255de:541f3c40
+  item_date: "2017-11-06 03:57:20"
+  title: 'Data Governance Regimes in the Digital Economy: The Example of Connected
+    Cars'
+  url: http://thegovlab.org/?p=21864
+  domain: thegovlab.org
+  image: ""
+- curated_id: cokvuWXR6k4zx4cTNPY1nzhlJpqqTmN3HT0ihkkhjoM=_15fdacff9d5:243fa83:541f3c40
+  item_date: "2017-11-19 16:00:00"
+  title: Code Review Guidelines
+  url: https://engineeringblog.yelp.com/2017/11/code-review-guidelines.html
+  domain: engineeringblog.yelp.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_1608ebe9d98:1995669:7157a206
+  item_date: "2017-12-25 09:19:00"
+  title: The need for API Governance
+  url: https://developer.ibm.com/apiconnect/2014/11/16/need-for-api-governance/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_1608ebe9d98:199566a:7157a206
+  item_date: "2017-12-25 09:19:25"
+  title: Organization and Governance of API Initiatives
+  url: https://developer.ibm.com/apiconnect/2014/09/15/organization-governance-api-initiatives/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_1608ebe9d98:199566b:7157a206
+  item_date: "2017-12-25 09:19:51"
+  title: "API Lifecycle Governance Best Practices \u2013 Capital One DevExchange \u2013
+    Medium"
+  url: https://medium.com/capital-one-developers/api-lifecycle-governance-best-practices-56a1ebbb4f1b
+  domain: medium.com
+  image: ""
 ...
